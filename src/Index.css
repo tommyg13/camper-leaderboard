@@ -1,0 +1,19 @@
+#all, #past {
+    cursor: pointer;
+    text-decoration: underline;
+    color: green;
+}
+
+img {
+    width: 40px;
+    margin :5px;
+}
+
+h1 {
+     background: green;
+     margin-bottom: 0px !important;
+}
+
+table {
+    border: 3px solid black;
+}
